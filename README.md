@@ -1,4 +1,4 @@
-# Image Capture and Video Processing Using OpenCV
+# EXP-2 Image Capture and Video Processing Using OpenCV
 
 ## Aim
 
