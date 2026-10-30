@@ -113,7 +113,7 @@ print("All videos and the JPG image have been saved.")
 
 
 ## Output
-
+https://github.com/user-attachments/assets/ed8ee40b-d8d3-45e7-a154-32ed9e4fd11c
 ### i) Write the frame as JPG image
 Captured image is saved as `captured_image.jpg`
 
