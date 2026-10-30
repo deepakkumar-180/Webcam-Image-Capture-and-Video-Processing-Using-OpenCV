@@ -113,18 +113,21 @@ print("All videos and the JPG image have been saved.")
 
 
 ## Output
-https://github.com/user-attachments/assets/ed8ee40b-d8d3-45e7-a154-32ed9e4fd11c
+
 ### i) Write the frame as JPG image
 Captured image is saved as `captured_image.jpg`
-
+<img width="640" height="480" alt="captured_image" src="https://github.com/user-attachments/assets/8193414c-768c-4499-93f0-d97b8cb6bce5" />
 ### ii) Display the video
 Live webcam video is displayed
+<img width="1362" height="977" alt="image" src="https://github.com/user-attachments/assets/3431d6b8-a830-4cf1-b120-9abab4d5a89e" />
 
 ### iii) Display the video by resizing the window
 Video is shown in resized resolution (640 × 480)
+<img width="1355" height="973" alt="image" src="https://github.com/user-attachments/assets/1608f4a6-bc27-454b-92fc-c772e267867b" />
 
 ### iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
+<img width="757" height="911" alt="image" src="https://github.com/user-attachments/assets/3d33af42-ddef-4612-9936-195d6f60fe1b" />
 
 ---
 
